@@ -1,8 +1,10 @@
 ## Issue ID
 
-## Requirements
+## Implementation details
 - [ ] Requirement
 - [ ] Requirement 2
+
+## PR Checklist      
 - [ ] Lint must pass
 - [ ] Build must pass
 - [ ] There should no warnings/errors in the console/terminal (check locally)
