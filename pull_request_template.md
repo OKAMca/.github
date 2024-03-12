@@ -1,4 +1,4 @@
-## Issue ID
+## Issue Link
 
 ## Implementation details
 - [ ] Requirement
